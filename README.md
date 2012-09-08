@@ -1,5 +1,6 @@
 nosh-scrape
 =====
+
 My first python program
 Created using Python 2.7.1
 
@@ -11,7 +12,7 @@ information out and writes it to a .csv file. Menu item name is the first value 
 description (if it exists), is the second value. An output file in the same directory named after the id of the
 restaurant will be generated.
 
-*Usage Instructions
+*Usage Instructions*
 1. Install pip using instructions here:
 >http://www.pip-installer.org/en/latest/installing.html
 
